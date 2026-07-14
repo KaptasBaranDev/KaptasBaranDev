@@ -1,6 +1,5 @@
-# 🏆 Badge Readme
-
-> **Automatically display your Credly badges in your GitHub profile README**
+def lenny():
+    """A passionate software developer from Italy 🍝"""
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Ready-blue?logo=github-actions)](https://github.com/features/actions)
 [![Python](https://img.shields.io/badge/Python-3.7+-green?logo=python)](https://python.org)
