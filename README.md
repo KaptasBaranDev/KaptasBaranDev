@@ -3,7 +3,7 @@
 
 **KaptasBaranDev/KaptasBaranDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-A passionate software developer from Turkey tr
+A passionate software developer from Turkey 🅃🅁
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
