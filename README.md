@@ -1,6 +1,6 @@
 # Hi 👋, I'm Baran_KAPTAS ![](https://komarev.com/ghpvc/KaptasBaranDev)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=KaptasBaranDev)
 - **✨We've been hunting for an exploitable vulnerability since 2022✨**
 
 - **🌱 I’m currently learning everything 🤓**
