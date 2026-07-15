@@ -1,8 +1,8 @@
 # Hi 👋, I'm Baran_KAPTAS
 
-- 🔭 I'm currently working on **✨We've been hunting for an exploitable vulnerability since 2022✨**
+- **✨We've been hunting for an exploitable vulnerability since 2022✨**
 
-- 🌱 I'm currently learning **🌱 I’m currently learning everything 🤓**
+- **🌱 I’m currently learning everything 🤓**
 
 - 👨‍💻 All of my projects are available at **[https://kaptasbarandev.github.io/](https://kaptasbarandev.github.io/)**
 
