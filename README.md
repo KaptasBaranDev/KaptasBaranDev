@@ -1,5 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQEzQN798CCeIw/profile-displaybackgroundimage-shrink_350_1400/B56Z3_W_x2H8Ac-/0/1778105712757?e=1785974400&v=beta&t=JZY7lclSVZSnTnwcriQUEDhodMrxhemY3y9-dOzXPZQ)
-![](https://komarev.com/ghpvc/?username=KaptasBaranDev&color=green)
+# <div align="center"> ![](https://komarev.com/ghpvc/?username=KaptasBaranDev&color=green) </div>
 # <div align="center"> Hi 👋, I'm Baran_KAPTAS </div>  
 ##### <div align="center">A passionate software developer from **Turkey 🇹🇷**</div> 
 
