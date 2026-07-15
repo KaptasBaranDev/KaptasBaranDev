@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=your-github-username&label=KaptasBaranDev+VIEWS)
+![](https://komarev.com/ghpvc/KaptasBaranDev)
 
 # Hi 👋, I'm Baran_KAPTAS ![](https://komarev.com/ghpvc/KaptasBaranDev)
 
