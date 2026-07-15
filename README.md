@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/KaptasBaranDev)
+![](https://komarev.com/ghpvc/kaptasbarandev)
 
 # Hi 👋, I'm Baran_KAPTAS ![](https://komarev.com/ghpvc/KaptasBaranDev)
 
