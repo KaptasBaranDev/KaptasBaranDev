@@ -1,5 +1,3 @@
-
-
 ![](https://komarev.com/ghpvc/?username=KaptasBaranDev&color=green)
 # <div align="center"> Hi 👋, I'm Baran_KAPTAS </div>  
 
