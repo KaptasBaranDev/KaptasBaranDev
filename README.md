@@ -1,7 +1,6 @@
-![](https://hit.yhype.me/github/profile?account_id=282012912)
-
 # Hi 👋, I'm Baran_KAPTAS ![](https://komarev.com/ghpvc/KaptasBaranDev)
 
+![](https://hit.yhype.me/github/profile?account_id=282012912)
 - **✨We've been hunting for an exploitable vulnerability since 2022✨**
 
 - **🌱 I’m currently learning everything 🤓**
