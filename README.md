@@ -12,7 +12,7 @@
 
 ###### <div align="center">· 📚 All of my projects are available at **[https://kaptasbarandev.github.io/](https://kaptasbarandev.github.io/)** </div>  
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Contact Me:</h3>
 <p align="center">
 <a href="https://github.com/KaptasBaranDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KaptasBaranDev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kaptasbaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kaptasbaran" height="30" width="40" /></a>
