@@ -28,8 +28,8 @@
 ### <div align="center"> ![](https://streak-stats.demolab.com/?user=KaptasBaranDev&theme=dark&hide_border=true) </div> 
 ### <div align="center"> ![](https://github-readme-stats.shion.dev/api/top-langs/?username=KaptasBaranDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)  </div> 
 
-## <div align="center"> 🏆 GitHub Trophies
-### <div align="center">![](https://github-profile-trophy.vercel.app/?username=KaptasBaranDev&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+## <div align="center"> 🏆 GitHub Trophies </div> 
+### <div align="center">![](https://github-profile-trophy.vercel.app/?username=KaptasBaranDev&theme=radical&no-frame=true&no-bg=false&margin-w=4) </div> 
 
-###  <div align="center"> 🔝 Top Contributed Repo
-####  <div align="center">![](https://github-contributor-stats.vercel.app/api?username=KaptasBaranDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+###  <div align="center"> 🔝 Top Contributed Repo </div> 
+####  <div align="center">![](https://github-contributor-stats.vercel.app/api?username=KaptasBaranDev&limit=5&theme=dark&combine_all_yearly_contributions=true) </div> 
