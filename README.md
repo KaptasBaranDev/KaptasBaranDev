@@ -1,16 +1,16 @@
 
 
 ![](https://komarev.com/ghpvc/?username=KaptasBaranDev&color=green)
-# <div align="center"> # Hi 👋, I'm Baran_KAPTAS </div>  
+# <div align="center"> Hi 👋, I'm Baran_KAPTAS </div>  
 
 
-#<div align="center">- ✨We've been hunting for an exploitable vulnerability since **2022**✨ </div>  
+#### <div align="center">- ✨We've been hunting for an exploitable vulnerability since **2022**✨ </div>  
 
-#<div align="center">- 🌱 I’m currently learning **everything** 🤓</div>  
+#### <div align="center"> -🌱 I’m currently learning **everything** 🤓</div>  
 
-#<div align="center">- 🔒 The most interesting projects are **private** </div>  
+#### <div align="center"> -🔒 The most interesting projects are **private** </div>  
 
-#<div align="center">- 👨‍💻 All of my projects are available at **[https://kaptasbarandev.github.io/](https://kaptasbarandev.github.io/)** </div>  
+#### <div align="center"> -👨‍💻 All of my projects are available at **[https://kaptasbarandev.github.io/](https://kaptasbarandev.github.io/)** </div>  
 
 ### <div align="center"><h3 align="center">Connect with me:</h3>
 <p align="center">
