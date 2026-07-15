@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/kaptasbarandev)
+![](https://hit.yhype.me/github/profile?account_id=282012912)
 
 # Hi 👋, I'm Baran_KAPTAS ![](https://komarev.com/ghpvc/KaptasBaranDev)
 
