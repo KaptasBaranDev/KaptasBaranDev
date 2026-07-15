@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=KaptasBaranDev)
+![](https://komarev.com/ghpvc/?username=KaptasBaranDev&style=for-the-badge)
 # Hi 👋, I'm Baran_KAPTAS ![](https://komarev.com/ghpvc/KaptasBaranDev)
 
 - **✨We've been hunting for an exploitable vulnerability since 2022✨**
